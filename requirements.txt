@@ -7,3 +7,4 @@ pandas
 xgboost
 scikit_learn
 nltk.stem.porter
+nltk.corpus 
