@@ -6,3 +6,4 @@ nltk==3.6.7
 pandas
 xgboost
 scikit_learn
+nltk.stem.porter
