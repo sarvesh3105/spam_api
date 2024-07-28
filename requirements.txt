@@ -4,3 +4,5 @@ pydantic
 pickle-mixin==1.0.2
 nltk==3.6.7
 pandas
+xgboost
+scikit_learn
